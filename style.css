@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    border: border-box;
+    box-sizing: border-box;
 }
 .container {
     background: linear-gradient(135deg, #1A1A1A, #0F0F0F, #000000);
